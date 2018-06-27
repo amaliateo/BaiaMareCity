@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/title_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/medium"
+        android:gravity="center_horizontal"
+        android:textAppearance="@style/welcome" />
+    <ImageView
+        android:id="@+id/hotel_image"
+        android:contentDescription="@string/destination_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_details"
+        android:layout_margin="@dimen/medium"
+        android:scaleType="center" />
+    <TextView
+        android:id="@+id/description_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_details"
+        android:layout_margin="@dimen/medium"
+        android:layout_toEndOf="@id/hotel_image"
+        android:layout_toRightOf="@id/hotel_image" />
+    <TextView
+        android:id="@+id/link_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/hotel_image"
+        android:layout_margin="@dimen/medium"
+        android:autoLink="web"
+        android:gravity="center_horizontal"
+        android:paddingBottom="@dimen/medium" />
+
+</RelativeLayout>

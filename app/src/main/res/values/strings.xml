@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">BaiaMareCity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel_mara">Hotel Mara</string>
+    <string name="castel_transilvania">Castel Transilvania</string>
+    <string name="eurohotel">EuroHotel</string>
+    <string name="hotel_europa">Hotel Europa</string>
+    <string name="hotel_diafan">Hotel Diafan</string>
+    <string name="hotel_romanita">Hotel Romanita</string>
+    <string name="hotel_europa_description">Hotel Europa, located 1 km from the centre of Baia Mare, houses a restaurant with a bar, offers 24-hour reception, and provides free WiFi in all areas.
+Decorated in beige tones, all rooms come equipped with a flat-screen cable TV and a minibar. Each unit contains a private bathroom with a shower or a bathtub.
+
+Free private parking is possible on site. The nearest bus stop is 30 m from the Europa hotel. The train station is within 2.7 km. Mara Park can be found at the distance of 1.5 km. </string>
+    <string name="castel_transilvania_description">Built in a style inspired by medieval architecture, Castel Transilvania offers its guests outdoor pools overlooking Baia Mare, a night club,a conference room and an à la carte restaurant. Free WiFi is available in the entire property.
+Guests will find units decorated in dark brown and red tones, fitted with a fireplace. The rooms feature air conditioning, a flat-screen TV with satellite channels, a sofa, a seating area and a desk. Private bathrooms are included. Some of the rooms of Castel Transilvania also have a balcony or a terrace where you can relax.</string>
+    <string name="eurohotel_description">Eurohotel is located less than 2 km from the centre of Baia Mare and it offers rooms with free WiFi.
+The air-conditioned rooms of Eurohotel have a flat-screen TV with cable channels, a minibar and a refrigerator. The bathrooms are fitted with a hairdryer.
+
+Guests can make use of the hairdressing salon at the hotel. You can access the indoor pool, the sauna and the gym free of charge.
+
+The two-level restaurant offers traditional Romanian cuisine and a range of international dishes, and can accommodated up to 170 people. There is also a conference centre with 2 equipped meeting rooms.</string>
+    <string name="hotel_diafan_description">One of our top picks in Baia Mare.
+Situated in the Old Town of Baia Mare, Hotel Diafan features a 600-year-old wine cellar offering a variety of Romanian wines. The restaurant serves Romanian and international cuisine and provides a unique view of the town\'s old centre.
+Nestled in a Gothic-style building, the Diafan also provides a bar equipped with a fireplace. The reception is open 24 hours a day.
+
+The spacious and modern rooms are individually colour-themed. All provide a minibar, LCD cable TV and free WiFi. The bathrooms are equipped with a shower and hairdryer. Some rooms have air conditioning.</string>
+    <string name="hotel_mara_description">Hotel Mara is located in the commercial centre of Baia Mare, 1 km from the train station and 11 km from Baia Mare Airport. It offers free access to a sauna, salt room, hot tub and fitness centre.
+The air-conditioned rooms feature free WiFi, and offer views over a park and the surrounding mountains.
+
+The staff of the hotel can assist you in English, French, Italian and Hungarian. Mara Hotel's conference center includes a ballroom and four conference rooms.</string>
+    <string name="hotel_roamita_description">Set just a 10-minute drive from the city centre of Baia Mare, Hotel Romanita boasts impressive design-accommodation with an outdoor swimming pool, a summer terrace as well as free WiFi in the entire property.
+The elegant units are all air-conditioned and feature a minibar, flat-screen TV, and a private bathroom with free toiletries, a hairdryer, slippers and bathrobe. Some also comprise a living room.
+
+Guests can enjoy dishes from an international menu at Hotel Romanita’s restaurant or serve their meals on the stylish terrace.</string>
+    <string name="hotel_europa_link">http://www.hoteleuropabaiamare.ro/</string>
+    <string name="hotel_romanita_link">http://www.romanitahotel.ro/</string>
+    <string name="hotel_diafan_link">http://www.hoteldiafan.ro/</string>
+    <string name="hotel_mara_link">http://www.hotelmara.ro/ro</string>
+    <string name="castel_transilvania_link">http://casteltransilvania.ro/</string>
+    <string name="eurohotel_link">http://www.eurohotel-bm.eu/</string>
+    <string name="welcome">Welcome to Baia-Mare !</string>
+    <string name="bizo">Bizo</string>
+    <string name="butoisu">Butoiasu cu bere</string>
+    <string name="centro">Centro Restaurant</string>
+    <string name="lumiere">Lumiere</string>
+    <string name="palincie">Palincie</string>
+    <string name="pressco">Pressco</string>
+    <string name="bizo_description">\" Breakfast, brunch or a quick snack? Visit Bizo Brasserie in Baia Mare. Fantastic coffee. We also ordered macarons and \'canadian\' sandwiches. Food was fresh and tasted very good. \"</string>
+<string name="bizo_link">http://bizo.ro/</string>
+    <string name="butoiasu_description">\" I was impressed of the entrace in the shape of a barrel, the waiters were nice, also we had very tasty traditional romanian food. Surely a good place to have lunch in Baia Mare. \"</string>
+<string name="butoiasu_link">https://www.facebook.com/butoiasucuberebm/</string>
+    <string name="centro_description">\" Centro Restaurant is a great place for any tipe of celebration, or just for a good meal in a quite environment, away from city noise and traffic. The food is excelelent and the stuff is nice and always helpful! My friends and I have spent some wonderful nights there and we are looking forward to getting back! \"</string>
+    <string name="centro_link">http://centrorestaurant.ro/restaurant-homepage/</string>
+    <string name="lumiere_description">\" My experience, with this beautiful place, was as i wrote in the title. The diversity of food, the cooking and its taste are truly remarcable. I really felt like home for the service was as it should be in an excellent place. Big up for Lumiere and keep up the good job! \"</string>
+<string name="lumiere_link">http://www.restaurantlumiere.ro/</string>
+    <string name="palincie_description">\" If you want to try traditional romanian drinks, come here. The taste is authentic, believe me, I am Romanian. The service is great and the outdoor space is lovely. The food is not traditional but it\'s tasty. \"</string>
+<string name="palincie_link">http://www.lapalincie.ro/</string>
+    <string name="pressco_description">\" If you are a true coffee lover, this is the place for you. Not only that coffee is excellent, but the coffee shop experience is amazing. The smell of coffee freshly roasted and grounded and the high quality personel makes it worth it. The price is affordable and the variety of coffee types makes it attractive for any coffee drinker. \"</string>
+<string name="pressco_link">http://www.pressco.ro/</string>
+    <string name="tower">Stephen\’s Tower</string>
+    <string name="tower_description">One of the landmarks of Baia Mare is Turnul lui Stefan (Stephen\’s Tower), which towers majestically over the historical center of the city. Reaching a height of 45 meters, the tower was built between 1446 and 1468 under the leadership of Iancu of Hunedoara, and served as the bell tower of the St Stephen cathedral, which was later destroyed in a fire.</string>
+    <string name="bastion">Butchers\’ Bastion</string>
+    <string name="bastion_description">Another significant medieval building that survives to this day is Bastionul Macelarilor (Butchers\’ Bastion), located nearby Piata Izvoarelor (Izvoarelor Marketplace) in the vicinity of the historic center. Built in the 14th-15th centuries, the bastion was given in the administration of the butchers\’ guild, who had the obligation to man it when the city came under attack. The bastion is the only surviving tower of the seven that were originally built to defend the city.</string>
+    <string name="village_museum">The Village Museum</string>
+    <string name="village_museum_description">If you\’re looking for a primer in the traditions of Romanians, the Village Museum, located on the Dealul Florilor (Flowers\’ Hill), invites you to discover its beauty. Old traditional homes with thatched roofs, the world famous wooden churches, traditional clothing, handmade wool carpets, various woodwork and traditional household items are a few of the fascinating exhibits that can be admired here.</string>
+    <string name="art_museum">The Art Museum</string>
+    <string name="art_museum_description">The Art Museum, housed in a 17th century building, exhibits works of artists from the local school of painting, but also important works from artists elsewhere. Also worth a visit is the Mineralogy Museum, the biggest and richest of its kind in Romania, found in the modern area of the city, on Traian Boulevard. The museum owns a vast collection of over 16,000 crystals, ore samples, and gems collected from the mines in Maramures County, many of which are unique in the world.</string>
+    <string name="planetarium">The Planetarium</string>
+    <string name="planetarium_description">On George Cosbuc Street, you can find the first planetarium in Romania, built in 1969. Astronomy enthusiasts can admire a unique collection of 650 astronomy-themed stamps from over 65 countries, and get guided tours and presentations of various astronomical phenomena.</string>
+<string name="art_museum_link">https://muzeuldeartabaiamare.wordpress.com/</string>
+    <string name="bastion_link">http://www.baiamare.ro/ro/Descopera-Baia-Mare/Obiective-turistice-si-atractii/Atractii-turistice/Bastionul-Macelarilor/</string>
+<string name="tower_link">https://en.wikipedia.org/wiki/Stephen%27s_Tower_(Baia_Mare)</string>
+    <string name="village_museum_link">https://www.etnografie-maramures.ro/</string>
+    <string name="planetarium_link">https://planetariubm.ro/eng/</string>
+    <string name="barsana_monastery">Barsana Monastery</string>
+    <string name="barsana_monastery_description">Barsana Monastery is one of the wooden churches in Maramures, a beautiful synthesis of Eastern and Western European architecture, with Gothic and Byzantine elements, a complex of unique structure built entirely of wood. Barsana is a village in Maramures, on the right bank of the river Iza, located at 22 km southeast of the Sighetu Marmatiei city. Its beauty and uniqueness made it one of the eight churches in the region that UNESCO designated world heritage site.</string>
+    <string name="barsana_monastery_link">http://www.romanianmonasteries.org/maramures/barsana</string>
+    <string name="horses_waterfall">Horses Waterfall</string>
+    <string name="horses_waterfall_description">Horses Waterfall is the tallest waterfall in Romania with a total height of 80 m (262 ft) split over several steps, the highest being 18 m (59) tall. The waterfall is located in Piatra Rea Natural reserve, 3 km (1.8 miles) away from Borsa Resort at an elevation of 1300 m (4265 ft). The waterfall is formed on Fantana (\"Well\" in Romanian) creek and springs from Podul Cailor plateau.</string>
+    <string name="horses_waterfall_link">https://travelguideromania.com/horses-waterfall-canyon-rodnei-mountains/</string>
+    <string name="memorial_victims_communism">The Memorial of the Victims of Communism and of the Resistance</string>
+    <string name="memorial_victims_communism_link">http://www.memorialsighet.ro/memorial-en/</string>
+    <string name="memorial_victims_communism_description">his isn’t a pretty place nor a joyful place. But it is perhaps the most explicit example of how people endured communism. To say it is a moving experience understates the elemental truth of what went on in this prison. Ask anyone in Sighet and they can tell you a personal story of the influence this prison had on their family. Ask anyone in Romania, and they can tell you of a friend, family member, or important person who spent perhaps their final years of life in this prison. It is not a pretty place nor a joyful place. But all must experience it, so humanity can remember how it feels to be confined, tortured, forced to do hard labor, interrogated, and finally murdered because of what one thought or said. </string>
+    <string name="merry_cemetery">The Merry Cemetery</string>
+    <string name="merry_cemetery_description">Săpânţa village boasts the unique \'Merry Cemetery\', famous for the colourfully painted wooden crosses that adorn the tombstones in the village\'s graveyard. Shown in art exhibitions across Europe, the crosses attract coachloads of visitors who marvel at the gentle humour of the epitaphs and the human warmth that created them.</string>
+    <string name="merry_cemetery_link">http://www.infoviseu.ro/en/tourist-destinations/sapanta</string>
+    <string name="vaser_link">http://www.infoviseu.ro/en/tourist-destinations/vaser-valley</string>
+    <string name="vaser">Vaser Valley</string>
+    <string name="vaser_description">One of the most important cultural and technical values of the country, the Narrow Gauge Railway Train "Mocanita" from Viseu de Sus is the last steam train used for timber production in the world. Built as a more practical technical solution for transporting wood, the railway is still in use, for the initial purpose, but also for tourism.</string>
+    <string name="destination_image">image that shows the objective</string>
+</resources>
+
